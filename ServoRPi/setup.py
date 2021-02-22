@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 HERE = pathlib.Path(__file__).parent
 
-VERSION = '0.1.0'
+VERSION = '0.1.6'
 PACKAGE_NAME = 'ServoRPi'
 AUTHOR = 'AI Versity'
 AUTHOR_EMAIL = 'hello.aiversity@gmail.com'
